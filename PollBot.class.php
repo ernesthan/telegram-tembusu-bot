@@ -1,7 +1,7 @@
 <?php
 
 require_once 'config.php';
-require_once 'TelegramBot.php';
+require_once 'TelegramBot.class.php';
 
 class PollBot extends TelegramBot {
 
